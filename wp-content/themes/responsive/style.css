@@ -854,8 +854,9 @@ form div {
 #featured {
 	-moz-border-radius: 4px;
 	-webkit-border-radius: 4px;
-	background-color: #ffffff;
-	border: 1px solid #e5e5e5;
+	background-color: transparent;
+	/*border: 1px solid #e5e5e5;*/
+	border: none;
 	border-radius: 4px;
 	padding-bottom: 40px;
 	width: 99.893617021277%;
@@ -959,8 +960,9 @@ form div {
 .widget-wrapper {
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
-	background-color: #f9f9f9;
-	border: 1px solid #e5e5e5;
+	background-color: transparent;
+	/*border: 1px solid #e5e5e5;*/
+	border: none;
 	border-radius: 4px;
 	margin: 0 0 20px;
 	padding: 20px;
